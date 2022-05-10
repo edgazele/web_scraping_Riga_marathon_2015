@@ -1,4 +1,4 @@
-# web_scraping_Riga_marathon_2015
+# web_scraping_Riga_marathon
 final work for Python Data Analyse course
 
 The data for the Nordea Riga Marathon was scraped from the https://www.athlinks.com/ race results page. 
